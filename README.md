@@ -62,7 +62,5 @@ g++ main.cpp g1.cpp g2.cpp g3.cpp -o gamebox
 
 ## 📋 Requirements
 - **C++11 or later**
-- GCC/G++ compiler
-
----
+- **GCC/G++ compiler**
 
