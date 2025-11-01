@@ -44,7 +44,7 @@ g++ main.cpp g1.cpp g2.cpp g3.cpp -o gamebox
 
 ### 2. 🐍 Snake & Ladder
 - Classic board game logic with ladders boosting you forward and snakes pulling you back.
-- Uses a linked list to represent board cells.
+- Uses a **linked list** to represent board cells.
 
 ### 3. 🪙 Heads & Tails
 - Coin toss style game.
