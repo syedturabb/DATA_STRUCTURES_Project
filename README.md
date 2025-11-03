@@ -10,7 +10,7 @@ It’s a menu-driven application where the player can select any game to play di
 
 ---
 
-## 📂 Project Structure
+## 📂 **Project Structure**
 ```
 DS-Project/
 │── g1.cpp   # Minesweeper Game logic
